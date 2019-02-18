@@ -56,7 +56,7 @@ export default [
     priceGrowler: 19,
     colorLight: '#420',
     colorDark: '#2d0a00',
-    abv: 6.6
+    abv: 5.9
   },{
     title: 'SESH',
     titleColor: '#fff',
@@ -73,7 +73,7 @@ export default [
     colorDark: '#c30',
     abv: 4.7
   },{
-    title: 'LeBron Jams',
+    title: 'LeBron Jamz',
     titleColor: '#fff',
     style: 'Florida-style Berliner Weiss',
     description: '',
@@ -88,7 +88,7 @@ export default [
     colorDark: '#fc5',
     abv: 3.7
   },{
-    title: 'Firedrake Märzen',
+    title: 'Firedrake',
     titleColor: '#fff',
     style: 'Crisp, amber German lager',
     description: '',
@@ -121,7 +121,7 @@ export default [
   },{
     title: 'Resilience',
     titleColor: '#fff',
-    style: 'Piney IPA - Sierra Nevada Collab',
+    style: 'West-Coast IPA - Sierra Nevada Collaboration',
     description: '',
     price: 6,
     size: '16oz',
@@ -151,7 +151,7 @@ export default [
   },{
     title: 'BOOMTOWN!',
     titleColor: '#4f4',
-    style: 'Gose w/DILL PICKLES',
+    style: 'Gose w/DILL PICKLES!',
     description: '',
     price: 6,
     size: '12oz',
@@ -166,7 +166,7 @@ export default [
   },{
     title: 'SPACE RAPTOR: Hop Ascension',
     titleColor: '#fff',
-    style: 'New England-style IPA',
+    style: 'Hourglass Brewing Co. Collab NEIPA',
     description: '',
     price: 6,
     size: '16oz',
